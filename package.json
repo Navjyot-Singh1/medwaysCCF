@@ -9,10 +9,20 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.23.1",
+    "@react-navigation/native": "^6.1.17",
+    "@react-navigation/stack": "^6.3.29",
     "expo": "~51.0.1",
+    "expo-router": "~3.5.11",
     "expo-status-bar": "~1.12.1",
+    "formik": "^2.4.6",
+    "parse": "^5.0.0",
     "react": "18.2.0",
-    "react-native": "0.74.1"
+    "react-native": "0.74.1",
+    "react-native-vector-icons": "^10.1.0",
+    "react-navigation": "^5.0.0",
+    "yup": "^1.4.0",
+    "undefined": "@expo/vector-icons/MaterialCommunityIcons"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
